@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nearby Hospital Finder</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <!-- Prabu Key-->
+    <!--<string name="google_maps_api">AIzaSyB7KHirlykUVHTvehyIiEFSfC9o5IwXEuc</string>-->
+
+    <!-- Balaji Key-->
+    <string name="google_maps_api">AIzaSyAW-cZTjZ4ldVKw-dxdKiMJaxQ6dSKInio</string>
+</resources>
