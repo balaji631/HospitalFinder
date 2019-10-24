@@ -108,9 +108,18 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
         hospitaldb.add(new Hospital("Karunya Hospital", "6/23, Velachery Main Rd, Vengaivasal, Medavakkam, Chennai, Tamil Nadu 600100", "098407 84351", new LatLng(12.9168177,80.1918912)));
         hospitaldb.add(new Hospital("Anto Speciality Clinic", "Plot No 7,, First Main Road,vaishnavi Nagar,medavakkam, Munusamy Nagar, Vimala Nagar, Medavakkam, Chennai, Tamil Nadu 600100", "087541 45472", new LatLng(12.91636,80.1880753)));
         hospitaldb.add(new Hospital("Annai Therasa Hospitals Pvt Ltd", "1, 1173, Velachery Main Rd, opp. Nilgiris Super market, United Colony, Vengaivasal, Medavakkam, Chennai, Tamil Nadu 600100", "087541 45472", new LatLng(12.91669,80.1900033)));
+        hospitaldb.add(new Hospital("Government Royapettah Hospital", "1,west cott road,royapettah, Chennai, Tamil Nadu 600100", "04428483051", new LatLng(13.055434,80.264872)));
+        hospitaldb.add(new Hospital("Crescent Hospital", "91,Dr Besant road,Ice House,royapettah, Chennai, Tamil Nadu 600014", "04428474571", new LatLng(13.053004,80.272837)));
+        hospitaldb.add(new Hospital("Seethapathy Clinic & Hospital", "New No.128,Old No.241,Royapettah High Road, Azad Nagar, royapettah, Chennai, Tamil Nadu 600014", "04449496666", new LatLng(13.049055,80.264641)));
+        hospitaldb.add(new Hospital("Rabbani vidhyasalai", "29/13,Peters Rd,Mirsahipet,royapettah, Chennai, Tamil Nadu 600014", "04428483051", new LatLng(13.053261,80.271175)));
+        hospitaldb.add(new Hospital("Unani Hospital", "2/18,Puram Prakashan Rd,Balaji Nagar,royapettah, Chennai, Tamil Nadu 600100", "0445678548", new LatLng(13.052225,80.267860)));
 
         hospitaldb.add(new Hospital("Kamala Hospital", "Byepass road, Salem, Tamil Nadu 636100", "087541 45472", new LatLng(11.6566119, 78.1643266)));
         hospitaldb.add(new Hospital("Manipal Hospitals Salem", "Dalmia Board, Salem - Bangalore Highway, Vellakalpatti, Salem, Tamil Nadu 636012", "087541 45472", new LatLng(11.7028813, 78.1026713)));
+
+        hospitaldb.add(new Hospital("Velammal Medical College Hospital", "Madurai-Tuticorin Ring Road,Anuppanadi,Madurai,Tamil Nadu 625009", "04527113333", new LatLng(9.887081,78.150042)));
+        hospitaldb.add(new Hospital("Apollo Speciality Hospital", "80 Feet Rd,Deputy Collector Colony,KK Nagar,Madurai,Tamil Nadu 625020", "04522580892", new LatLng(9.928434,78.149165)));
+        hospitaldb.add(new Hospital("Meenakshi Mission Hospital", "Lake Area,Melur Main Rd,Madurai,Tamil Nadu 600100", "045224263000", new LatLng(9.947610,78.162334)));
 
         hospitaldb.add(new Hospital("ARAVIND EYE HOSPITAL Branch", "5/519 muthuramalingam nagar, Srivilliputhur - Sivakasi - Virudhunagar - Aruppukottai - Tiruchuli - Narikudi - Parthibanoor Road, Tiruchuli", "087541 45472", new LatLng( 9.533697699999998, 78.2035425)));
 
